@@ -1,2 +1,2 @@
-#Learn more about internet
+#Learn more about Internet
 ## C1
